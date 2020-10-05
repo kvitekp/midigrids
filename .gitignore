@@ -1,0 +1,26 @@
+# Precompiled python modules
+*.pyc
+
+# Eagle backups
+*.s#?
+*.b#?
+
+# Gerber files
+*.GBL
+*.GBO
+*.GBS
+*.GML
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+*.TXT
+*.dri
+*.gpi
+*.pro
+
+# Build directory
+build/
+
+# OS X crap
+.DS_Stor?
