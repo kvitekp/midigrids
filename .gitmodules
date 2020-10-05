@@ -1,0 +1,3 @@
+[submodule "src/avrlib"]
+	path = src/avrlib
+	url = https://github.com/kvitekp/avril.git
